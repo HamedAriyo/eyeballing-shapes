@@ -10,3 +10,5 @@ streamlit run eyeballing_shapes_app.py
 - Branch: main
 - Main file: eyeballing_shapes_app.py
 - Advanced → Python: 3.11
+
+🚀 **[Launch the App](https://eyeballing-shapes.streamlit.app/)**
